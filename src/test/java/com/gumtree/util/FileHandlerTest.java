@@ -25,7 +25,7 @@ public class FileHandlerTest {
             return;
         }
 
-        // We should not reach here. If so, fail the test case 
+        // We should not reach here. If so, fail the test case
         fail();
     }
 

@@ -57,7 +57,7 @@ public class AddressBookQueryProcessor {
      * @param person1 - First person
      * @param person2 - Second person
      * @return Returns the number of days person1 is older than person2.
-     *         If person1 is younger than person2, then a negative number (which corresponds to the number of days
+     *         If person1 is younger than person2, then a negative number(which corresponds to the number of days
      *         person1 is younger than person2) is returned
      * @throws IllegalArgumentException when the file is empty or the supplied person(s) do not exist
      * @throws IOException
